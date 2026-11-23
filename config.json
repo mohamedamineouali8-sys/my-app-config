@@ -1,6 +1,8 @@
 {
   "maintenance": true,
-  "title": "التطبيق jfjdkdkفي jالصيانة",
-  "message": "حنا خدامين دابا باش نصلحو شي حوايج، عاود حاول من بعد شوية",
-  "button": "فهمت"
+  "maintenance_title": "التطبيق تحت الصيانة",
+  "maintenance_message": "كنصلحو شي حاجة واعرة، رجع من بعد 10 دقايق و غادي تلقى كلشي واجد.",
+  "maintenance_button": "فهمت",
+  "maintenance_image": "https://i.imgur.com/2vQtZBb.png",
+  "button_color": "#6750A4"
 }
