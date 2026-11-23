@@ -1,5 +1,5 @@
 {
-  "maintenance": false,
+  "maintenance": true,
   "maintenance_title": "التطبيق تحت الصيانة",
   "maintenance_message": "كنصلحو شي حاجة واعرة، رجع من بعد 10 دقايق و غادي تلقى كلشي واجد.",
   "maintenance_button": "فهمت",
